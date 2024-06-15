@@ -1,5 +1,5 @@
 # LogisticsShippingRates
-Course 3 Module 3 - Practice Project
+Course 3 Module 3 - Practice Project: Part 1 - GitHub UI
 
 Please consider the below factors while contributing
 
